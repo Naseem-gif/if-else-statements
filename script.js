@@ -293,3 +293,105 @@
 //     console.log("Regular hours");
     
 // }
+
+
+
+// Q #27
+// var age = prompt("Enter your age");
+// var gender = prompt("Enter your Gender");
+
+// if(age == 13 || age <= 19 && gender === "male"){
+//         console.log("Teen Male");
+        
+// }else if( age === 13 || age <= 19 && gender === "female"){
+//     console.log("Teen Female");
+    
+// }else if( age < 13){
+//     console.log("Child");
+    
+// }else if(age >= 20){
+//     console.log("Adult");
+    
+// }
+
+
+
+// Q #28
+// var temp = 41
+// var humdity = 65
+
+// if(temp >= 40 && humdity >= 60){
+//     console.log("Heatwave Alert");
+    
+// }else if(temp >= 40 && humdity <60){
+//     console.log("Hot and Dry");
+    
+// }else if(temp <= 20){
+//     console.log("Cool Weather");
+    
+// }else{
+//     console.log("Moderate");
+
+
+// Q #29
+// var score = 39
+
+// if(score >= 90 && score <=100){
+//     console.log("Excellent");
+    
+// }else if(score >= 70 && score <=89){
+//     console.log("Good");
+    
+// }else if(score >= 50 && score <= 69){
+//     console.log("Average");
+    
+// }else if(score >= 30 && score <= 49){
+//     console.log("Poor");
+    
+// }else if (score < 30){
+//     console.log("Fail");
+    
+// }else{
+//     console.log("Invalid Score");
+    
+// }
+
+
+// Q #30
+// var isLoggedIn = true
+// var isBanned = true
+// var isEnrolled =  true
+
+// if(isLoggedIn && !isBanned && isEnrolled){
+//     console.log("Access Granted");
+    
+// }else if(!isLoggedIn && !isBanned && isEnrolled){
+//     console.log("Please login first");
+    
+// }else if(isLoggedIn && !isBanned && !isEnrolled){
+//     console.log("Enroll in course first");
+    
+// }else{
+//     console.log("User is banned");
+    
+// }
+
+
+// Q #31
+// var speed = 121
+// var hasLicense = false
+
+// if(speed > 120 && hasLicense){
+//     console.log("License Suspended");
+    
+// }else if(speed > 100 && speed < 120 && hasLicense){
+//     console.log("Warning");
+    
+// }else if(speed <= 100 && hasLicense){
+//     console.log("Normal Driving");
+    
+// }else{
+//     console.log("Driving without license");
+    
+// }
+   
