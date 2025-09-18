@@ -399,6 +399,62 @@
 
     
 // }
+
+
+
+// var isPaid = false;
+// var shipped = false;
+
+
+// if(isPaid && shipped){
+//     console.log("Order on the way");
+    
+// }else if(isPaid && !shipped){
+//     console.log("Preparing Your order");
+    
+// }else if(!isPaid){
+//     console.log("Awaiting Payment");
+    
+// }else{
+//     console.log("Payment failed");
+    
+// }
+
+
+
+
+
+// var isCharging = false
+// var level = 50
+
+// if(level === 100){
+//     console.log("Fully charged");
+    
+// }else if(level < 100 && isCharging){
+//     console.log("Charging");
+    
+// }else if(level < 20 && !isCharging){
+//     console.log("Battery Low");
+    
+// }else{
+//     console.log("Battery Ok");
+    
+// }
+
+
+// var browser = "safari";
+// var device = 'mobile';
+
+// if(browser === "chrome" && device === "desktop"){
+//     console.log("Full features enabled");
+    
+// }else if(browser === "chrome" && device === "mobile"){
+//     console.log("Limited features enabled");
+    
+// }else{
+//     console.log("Please switch to chrome");
+    
+// }
    
 
 
